@@ -30,7 +30,9 @@ export default function App() {
 
   return (
     <View className={styles.container}>
+
       <Text className={styles.text}>Open up App.js to start working on your app!</Text>
+      
     </View>
   );
 }
